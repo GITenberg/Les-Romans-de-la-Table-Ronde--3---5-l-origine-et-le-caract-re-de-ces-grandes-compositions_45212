@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31791'
     url: http://www.gutenberg.org/2009/agents/31791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45212#Les-Romans-de-la-Table-Ronde--3---5-l-origine-et-le-caract-re-de-ces-grandes-compositions
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-03-25'
 gutenberg_type: Text
